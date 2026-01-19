@@ -7,6 +7,7 @@ def main():
 
 def pounds_to_float(d):
     # TODO
+    int(d.lstrip("£"))
 
 def percent_to_float(p):
     # TODO
